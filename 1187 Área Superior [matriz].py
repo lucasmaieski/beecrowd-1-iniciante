@@ -7,12 +7,12 @@ x  0   1   2   3   4   5   6   7   8   9   10  11
 3 [ ] [ ] [ ] [i] [x] [x] [x] [x] [i] [ ] [ ] [ ]
 4 [ ] [ ] [ ] [ ] [i] [x] [x] [i] [ ] [ ] [ ] [ ]
 5 [ ] [ ] [ ] [ ] [ ] [i] [i] [ ] [ ] [ ] [ ] [ ]
-6 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-7 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-8 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-9 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-10[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-11[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+6 [ ] [ ] [ ] [ ] [ ] [i] [i] [ ] [ ] [ ] [ ] [ ]
+7 [ ] [ ] [ ] [ ] [i] [ ] [ ] [i] [ ] [ ] [ ] [ ]
+8 [ ] [ ] [ ] [i] [ ] [ ] [ ] [ ] [i] [ ] [ ] [ ]
+9 [ ] [ ] [i] [ ] [ ] [ ] [ ] [ ] [ ] [i] [ ] [ ]
+10[ ] [i] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [i] [ ]
+11[i] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [i]
 
 Entrada
 A primeira linha de entrada contem um único caractere Maiúsculo O ('S' ou 'M'), indicando a operação (Soma ou Média) que deverá ser realizada com os elementos da matriz. Seguem 144 valores com ponto flutuante de dupla precisão que compõem a matriz.
